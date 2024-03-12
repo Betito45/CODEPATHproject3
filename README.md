@@ -48,7 +48,9 @@ I have chosen to duplicate the following layout from the **FoxChat** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![Project33](https://github.com/Betito45/CODEPATHproject3/assets/116847695/90238b06-4e9d-4e4e-89de-4f5cfbcdf8fa)
+<img src='![Project33](https://github.com/Betito45/CODEPATHproject3/assets/116847695/3d1aab52-0407-422a-a05b-6851596836bb)
+' title='Video Demo' width='' alt='Video Demo' />
+
 
 GIF created with **ScreentoGIF**
 
