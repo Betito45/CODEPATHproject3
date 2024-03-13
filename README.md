@@ -37,7 +37,8 @@ The following EXTRA features are implemented:
 - [ ] List anything else that you added to improve the app!
 
 ## Chosen Screenshot
-![twitch](https://github.com/Betito45/CODEPATHproject3/assets/116847695/7081aaee-cb55-43e5-b670-55896399f40a)
+![Screenshot 2024-03-12 213525](https://github.com/Betito45/CODEPATHproject3/assets/116847695/02d267ea-d260-433d-8c69-0e76948efb5e)
+
 Phone Number section
 
 I have chosen to duplicate the following layout from the **FoxChat** app:
